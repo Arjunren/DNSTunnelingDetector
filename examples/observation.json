@@ -1,0 +1,14 @@
+{
+  "query_count": 20,
+  "mean_query_length": 24,
+  "mean_subdomain_length": 5,
+  "mean_subdomain_entropy": 1.8,
+  "mean_unique_character_ratio": 0.6,
+  "txt_query_ratio": 0.05,
+  "nxdomain_ratio": 0.02,
+  "unique_subdomain_ratio": 0.1,
+  "queries_per_minute": 4,
+  "max_label_length": 12,
+  "punycode_ratio": 0,
+  "window_seconds": 300
+}
